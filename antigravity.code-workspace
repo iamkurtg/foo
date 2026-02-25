@@ -1,8 +1,8 @@
 {
 	"folders": [
 		{
-			"name": "antigravity",
-			"path": "../antigravity"
+			"name": "foo",
+			"path": "../foo"
 		}
 	],
 	"settings": {
